@@ -1,5 +1,5 @@
 # Compositional Video Synthesis with Action Graphs (ICML 2021)
-#### [Amir Bar*](https://amirbar.net), [Roei Herzig*](https://roeiherz.github.io/), [Xiaolong Wang](https://xiaolonw.github.io/), [Anna Rohrbach](https://anna-rohrbach.net/), [Gal Chechik](https://https://chechiklab.biu.ac.il/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/)
+#### [Amir Bar*](https://amirbar.net), [Roei Herzig*](https://roeiherz.github.io/), [Xiaolong Wang](https://xiaolonw.github.io/), [Anna Rohrbach](https://anna-rohrbach.net/), [Gal Chechik](https://https://chechiklab.biu.ac.il/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](https://cs3801.wixsite.com/amirgloberson)
 ![ag2vid](https://roeiherz.github.io/AG2Video/data/videos/ag2vid_task.gif)
 
 Back to [Project Page](https://roeiherz.github.io/AG2Video).
